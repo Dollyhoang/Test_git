@@ -19,7 +19,6 @@ namespace Console_Beginer
             Console.WriteLine("kêt quả đầu tiên:"+value);
             Increate(ref value);
             Console.WriteLine("Kết quả sau khi tăng với ref:" +value);
-            Console.WriteLine("Kết quả mới là:Test thôi ");
             Console.ReadKey();
         }
     }
