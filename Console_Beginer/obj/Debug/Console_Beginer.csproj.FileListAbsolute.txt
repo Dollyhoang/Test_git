@@ -1,6 +1,0 @@
-C:\Users\Microsoft Windows\source\repos\Console_Beginer\Console_Beginer\bin\Debug\Console_Beginer.exe.config
-C:\Users\Microsoft Windows\source\repos\Console_Beginer\Console_Beginer\bin\Debug\Console_Beginer.exe
-C:\Users\Microsoft Windows\source\repos\Console_Beginer\Console_Beginer\bin\Debug\Console_Beginer.pdb
-C:\Users\Microsoft Windows\source\repos\Console_Beginer\Console_Beginer\obj\Debug\Console_Beginer.csprojAssemblyReference.cache
-C:\Users\Microsoft Windows\source\repos\Console_Beginer\Console_Beginer\obj\Debug\Console_Beginer.exe
-C:\Users\Microsoft Windows\source\repos\Console_Beginer\Console_Beginer\obj\Debug\Console_Beginer.pdb
